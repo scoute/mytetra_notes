@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="1" icon="" id="1634663424ecvjqd46pg" name="UkM1U0lNUAMGHUpLwcCTkqMqjk+ZgSDKQGyQJ4ffjJ5JKToqPkr2WmLymhelRLMTOC0GpHr2RpMzO0I/u3bp1w==">
+   <node crypt="1" icon="" id="1634663447bcqi9qa0rb" name="UkM1U0lNUAM1b+q4U8C+cNxs/3YVFW5ngqLFvkIXKlikDysrx/5b3eFbY+VPEamAdtv2BiuwtTk5kdMgmFoWoA==">
+    <node crypt="1" icon="" id="16346636707p1v4sy2mk" name="UkM1U0lNUAMpXCKYRtrrBm51ZEOFw/yCUx7Osx9rXyFjHgeh0B+uotRkrJA0s90m"/>
+    <node crypt="1" icon="" id="16346636783c27j3fjr9" name="UkM1U0lNUAPbXnEEupOdAJWyyJr+jba1yCRn8mC/9dsEWv1P5rheVjYlwgo+oLUg"/>
+    <node crypt="1" icon="" id="16346636917grwg5y2ju" name="UkM1U0lNUAOO33ZpPudu+I9pjN8G17nxPCSoaEK/HoYVICG4+YB/xV8xgp2xoq+tJmQNgqaUAOk="/>
+   </node>
+   <node crypt="1" icon="" id="1634664540ah1t5bs0pg" name="UkM1U0lNUAOKG+uWEuph48h0LiKeoVEiAAfkBDHRh+bmrjwBy5H5DGfvhvF//YQ9SFBvt1FLzWO9mmjBJ7c4JQ==">
+    <node crypt="1" icon="" id="16346645506kpmsacrs4" name="UkM1U0lNUAOvcOMf74xH+QejOdKZdGgNItGlgQVFlL+Os8mofO/IvZuDUQ9NQyzKbecC0Op3ej1tfuiH1nq90DlKkgjBrGwZI82y057xZxs=">
+     <recordtable>
+      <record id="16346645955fvb36kret" name="UkM1U0lNUANEpzuQaFMC5eHYLN8Ct85aM28Ebc8jxb5KKR843WPKfhVxCQeFh7qa2nh8hbgMRP+a3wj0XKd2/XDB0XW4KEZs5Fo03qWHoXlDCLIA3riu+rVVTLrsPkLv" author="" url="" tags="" ctime="20211019212955" dir="1634664595frh0i67y6r" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="1634663787nhpacfwpl1" name="UkM1U0lNUAOM4sQH7b3ugGbauIN3CaUeVje1pojeThcLjqPKxLSYT7hhEJVDygqAWUdcQogwfFrCzrVWn94VrTpr07k9ozGjheb643pWkMA=">
+   <node crypt="1" icon="" id="1634663946bynbwew13r" name="UkM1U0lNUAN7zm0jQH7ZvLphUknys8HYehTBce2W31p9hqImmrHVrDt90TFM1ziE"/>
+  </node>
+ </content>
+</root>
